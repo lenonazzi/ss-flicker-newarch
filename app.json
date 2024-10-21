@@ -12,6 +12,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "splash": {
+      "backgroundColor": "#2B61EE"
+    },
     "plugins": [
       [
         "expo-build-properties",
